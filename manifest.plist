@@ -65,7 +65,7 @@
        <string>company</string>
        <!-- required. the title to display during the download.-->
        <key>title</key>
-       <string>gamename</string>
+       <string>gamename12</string>
       </dict>
     </dict>
   </array>
