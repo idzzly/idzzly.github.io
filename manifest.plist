@@ -62,10 +62,10 @@
        <string>software</string>
        <!-- optional. displayed during download; typically company name -->
        <key>subtitle</key>
-       <string>沈阳嘉禾弘宇科技有限公司</string>
+       <string>company</string>
        <!-- required. the title to display during the download.-->
        <key>title</key>
-       <string>王者电玩城</string>
+       <string>gamename</string>
       </dict>
     </dict>
   </array>
